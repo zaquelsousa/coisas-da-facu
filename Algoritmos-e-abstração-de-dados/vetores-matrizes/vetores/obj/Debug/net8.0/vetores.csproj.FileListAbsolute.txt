@@ -1,0 +1,15 @@
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\bin\Debug\net8.0\vetores.exe
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\bin\Debug\net8.0\vetores.deps.json
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\bin\Debug\net8.0\vetores.runtimeconfig.json
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\bin\Debug\net8.0\vetores.dll
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\bin\Debug\net8.0\vetores.pdb
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.AssemblyInfoInputs.cache
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.AssemblyInfo.cs
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.csproj.CoreCompileInputs.cache
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.sourcelink.json
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.dll
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\refint\vetores.dll
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.pdb
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\vetores.genruntimeconfig.cache
+D:\projetos\faculdade\Algoritmos-e-abstração-de-dados\vetores-matrizes\vetores\obj\Debug\net8.0\ref\vetores.dll
