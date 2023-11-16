@@ -5,4 +5,4 @@
 **notaçao**: letras **maiúsculas** sao, em geral usadas para denotar conjuntos e **minusculas** para denotar elementos destes conjuntos
 
 ## exemplo de notaçao
-![notaçao de conjutos](/imgs/exNotacaoConjunto.png)
+![notaçao de conjutos](imgs/exNotacaoConjunto.png)
