@@ -9,18 +9,19 @@ conjuntos podem ser finitos, o que a gente consegue contar, exemplo conjuto de l
 ou infito conjuto dos numeros natuais, nao da pra contar.
 
 
-## notaçao
-podemos listar um conjunto por exençao, entre chaves e separando os elementos por virgula.
+## Notação
 
-por exemplo:
-A = {organizar, armazenar, informaçoes}
+Podemos listar um conjunto por extensão, entre chaves e separando os elementos por vírgula.
 
-como podemos ver gerealmento indicamos um conjunto com uuma letra maiuscula.
-Para indicar pertinencia de um elemento em um conjunto ultilizamos o simbolo && \in &&, o simbolo && \notin && para nao pertinencia.
+Por exemplo:
+\[ A = \{ \text{organizar, armazenar, informações} \} \]
 
-por exemplo:
-organizar && \in && A
-representar && \notin && A
+Como podemos ver, geralmente indicamos um conjunto com uma letra maiúscula. Para indicar a pertinência de um elemento em um conjunto, utilizamos o símbolo \( \in \), e o símbolo \( \notin \) para não pertinência.
+
+Por exemplo:
+\[ \text{organizar} \in A \]
+\[ \text{representar} \notin A \]
+
 
 ## Subconjuntos
 Dados os conjuntos A e B, dizemos que B é **subconjunto** de A se todos os elementos de B tambem forem elementos de A. nesse caso temos:
