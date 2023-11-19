@@ -32,3 +32,30 @@ podemos ler essa definiçao da seguinte forma: B é subconjunto de A se, e somen
 ## diagrama de venn
 um forma visual para se representar os conjuntos.
 ![diagrama de venn](imgs/diagramDeVenn.png)
+
+
+
+# operaçoes sobre conjuntos
+
+
+### cardinalidade de conjuntos
+um conjunto é dito contável se for correspondente a alguma sequencia.
+
+- os elementos do conjunto porem ser arranjados em uma lista ordenada, a qual pode ser contada.
+- tds os conjuntos finitos sao contaveis.
+- um conjunto que nao é contavel e dito incontavel kkkkkkkkkkkkkkk
+
+### emparelhamento
+para que dois conjuntos X e Y possuam a **mesma cardinalidade**:
+- **emparelhamento de cada x em X com apenas um y em Y
+- cada elemento de Y seja apenas uma vez neste emparelhamento
+
+### produto cartesiano
+
+o produto cartesiano de dois conjuntos A e B é o conjunto de todos os pares ordenados(a,b) onde a E A e b E B, ou seja:
+
+### conjunto universo:
+
+basicamente tds os elemtentos
+
+### operaçoes sobre conjuntos
