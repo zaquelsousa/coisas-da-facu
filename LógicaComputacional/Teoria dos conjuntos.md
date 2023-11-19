@@ -14,14 +14,13 @@ ou infito conjuto dos numeros natuais, nao da pra contar.
 Podemos listar um conjunto por extensão, entre chaves e separando os elementos por vírgula.
 
 Por exemplo:
-\[ A = \{ \text{organizar, armazenar, informações} \} \]
+- A = {organizar, armazenar, informações}
 
-Como podemos ver, geralmente indicamos um conjunto com uma letra maiúscula. Para indicar a pertinência de um elemento em um conjunto, utilizamos o símbolo \( \in \), e o símbolo \( \notin \) para não pertinência.
+Como podemos ver, geralmente indicamos um conjunto com uma letra maiúscula. Para indicar a pertinência de um elemento em um conjunto, usamos "&isin;" (ou "&#8712;"), e "&notin;" (ou "&#8713;") para não pertinência.
 
 Por exemplo:
-\[ \text{organizar} \in A \]
-\[ \text{representar} \notin A \]
-
+- organizar &isin; A
+- representar &notin; A
 
 ## Subconjuntos
 Dados os conjuntos A e B, dizemos que B é **subconjunto** de A se todos os elementos de B tambem forem elementos de A. nesse caso temos:
