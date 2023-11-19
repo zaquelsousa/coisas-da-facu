@@ -1,28 +1,26 @@
 # Teoria dos conjuntos
 
-**conjunto**: coleçao "bem-definida"(e nao ordenada) de objetos.
-**elementos**: cada objeto do conjunto é denominado de lemento ou membro.
-**notaçao**: letras **maiúsculas** sao, em geral usadas para denotar conjuntos e **minusculas** para denotar elementos destes conjuntos
+## introdução
+**conjunto** é uma coleção de zero ou mais elementos destintos que nao possue qualquer ordem associada.
+em informatica, a teoria dos conjuntos pode ser utilizada na mais diversas atividades, como na contruçao de algebra booleana, banco de dados, representaçao de topologia de redes de computadores.
 
-## exemplo de notaçao
-![notaçao de conjutos](imgs/exNotacaoConjunto.png)
-
+### conjuntos finitos e infinitos
 conjuntos podem ser finitos, o que a gente consegue contar, exemplo conjuto de livro da biblioteca.
 ou infito conjuto dos numeros natuais, nao da pra contar.
 
-### Formas para definir conjuntos
-**Chaves** Listar os elementos do conjunto entre chaves.
-{ovo, carne, marcarrao}
-{1,2,3...50}
 
-**Propriedade** especificar uma propriedade para definir um conjunto
-![propriedade](imgs/exProps.png)
+## notaçao
+podemos listar um conjunto por exençao, entre chaves e separando os elementos por virgula.
 
-**Recursão** especificar um conjunto por meio d euma funcao recursiva
-![propriedade](imgs/exRescurs.png)
+por exemplo:
+A = {organizar, armazenar, informaçoes}
 
-**Caracteristica** espeficicar por meio de uma funcao caracteristica
-![propriedade](imgs/exCaracs.png)
+como podemos ver gerealmento indicamos um conjunto com uuma letra maiuscula.
+Para indicar pertinencia de um elemento em um conjunto ultilizamos o simbolo && \in &&, o simbolo && \notin && para nao pertinencia.
+
+por exemplo:
+organizar && \in && A
+representar && \notin && A
 
 ## Subconjuntos
 Dados os conjuntos A e B, dizemos que B é **subconjunto** de A se todos os elementos de B tambem forem elementos de A. nesse caso temos:
@@ -33,7 +31,9 @@ podemos ler essa definiçao da seguinte forma: B é subconjunto de A se, e somen
 um forma visual para se representar os conjuntos.
 ![diagrama de venn](imgs/diagramDeVenn.png)
 
+### conjunto universo:
 
+basicamente tds os elemtentos
 
 # operaçoes sobre conjuntos
 
@@ -53,9 +53,3 @@ para que dois conjuntos X e Y possuam a **mesma cardinalidade**:
 ### produto cartesiano
 
 o produto cartesiano de dois conjuntos A e B é o conjunto de todos os pares ordenados(a,b) onde a E A e b E B, ou seja:
-
-### conjunto universo:
-
-basicamente tds os elemtentos
-
-### operaçoes sobre conjuntos
