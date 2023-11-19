@@ -1,6 +1,6 @@
 using System;
 
-class se
+class Vetor
 {
     static void Main()
     {
